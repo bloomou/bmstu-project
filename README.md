@@ -1,1 +1,1 @@
-# bmstu_project
+# bmstu-project
